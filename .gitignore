@@ -2,3 +2,5 @@
 *.csv
 *.nc
 
+# notebook
+notebooks/.ipynb_checkpoints/*
