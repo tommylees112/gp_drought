@@ -1,6 +1,7 @@
 # data
 *.csv
 *.nc
+*.zip
 
 # notebook
 notebooks/.ipynb_checkpoints/*
